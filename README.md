@@ -11,4 +11,7 @@ Embrional ruby script writed in Ruby with OPENAI API
 
 <code> ruby m.rb </code>
 
+# <a href="http://rubai.altervista.org/">Website</a>
+
+
 
