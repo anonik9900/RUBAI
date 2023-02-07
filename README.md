@@ -1,6 +1,7 @@
 # RUBAI 🤖
 Embrional ruby script writed in Ruby with OPENAI API
 
+<img src ="http://rubai.altervista.org/img/media.jpg">
 
 # INSTALL GUIDE
 
